@@ -12,19 +12,26 @@
         android:layout_height="match_parent">
         <!-- Top toolbar-->
         <RelativeLayout
+            android:id="@+id/relativeLayout1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/relativeLayout1">
+            android:background="@drawable/white_grey_border_bottom">
+
+            <include layout="@layout/layout_top_tabs" />
 
         </RelativeLayout>
         <!--middle section body-->
         <RelativeLayout
+            android:id="@+id/relativeLayout2"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:id="@+id/relativeLayout2">
+            android:layout_below="@+id/relativeLayout1">
+
+            <include layout="@layout/layout_center_viewpager" />
 
         </RelativeLayout>
         <!-- bottom navigation-->
+        <include layout="@layout/layout_bottom_navigation_view"/>
     </RelativeLayout>
 
 

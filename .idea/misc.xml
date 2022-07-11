@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/CHARLES/AndroidStudioProjects/Instagram-Clone/app/src/main/res/drawable/white_grey_border_bottom.xml" value="0.144" />
+        <entry key="..\:/Users/CHARLES/AndroidStudioProjects/Instagram-Clone/app/src/main/res/drawable/white_grey_border_top.xml" value="0.1445" />
         <entry key="..\:/Users/CHARLES/AndroidStudioProjects/Instagram-Clone/app/src/main/res/layout/activity_main.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/CHARLES/AndroidStudioProjects/Instagram-Clone/app/src/main/res/layout/layout_bottom_navigation_view.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/CHARLES/AndroidStudioProjects/Instagram-Clone/app/src/main/res/layout/layout_center_viewpager.xml" value="0.5275" />
         <entry key="..\:/Users/CHARLES/AndroidStudioProjects/Instagram-Clone/app/src/main/res/layout/layout_top_tabs.xml" value="0.22083333333333333" />
       </map>
     </option>
